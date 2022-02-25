@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tanya-b30.github.io/wordle3/static/css/main.f78f3c8b.css",
-    "main.js": "/tanya-b30.github.io/wordle3/static/js/main.5fab1e62.js",
-    "static/js/787.3500bfec.chunk.js": "/tanya-b30.github.io/wordle3/static/js/787.3500bfec.chunk.js",
-    "index.html": "/tanya-b30.github.io/wordle3/index.html",
-    "main.f78f3c8b.css.map": "/tanya-b30.github.io/wordle3/static/css/main.f78f3c8b.css.map",
-    "main.5fab1e62.js.map": "/tanya-b30.github.io/wordle3/static/js/main.5fab1e62.js.map",
-    "787.3500bfec.chunk.js.map": "/tanya-b30.github.io/wordle3/static/js/787.3500bfec.chunk.js.map"
+    "main.css": "/wordle.theproduct.house/static/css/main.f78f3c8b.css",
+    "main.js": "/wordle.theproduct.house/static/js/main.b15488b8.js",
+    "static/js/787.3500bfec.chunk.js": "/wordle.theproduct.house/static/js/787.3500bfec.chunk.js",
+    "index.html": "/wordle.theproduct.house/index.html",
+    "main.f78f3c8b.css.map": "/wordle.theproduct.house/static/css/main.f78f3c8b.css.map",
+    "main.b15488b8.js.map": "/wordle.theproduct.house/static/js/main.b15488b8.js.map",
+    "787.3500bfec.chunk.js.map": "/wordle.theproduct.house/static/js/787.3500bfec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f78f3c8b.css",
-    "static/js/main.5fab1e62.js"
+    "static/js/main.b15488b8.js"
   ]
 }
