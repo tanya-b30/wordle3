@@ -1,10 +1,10 @@
 import { getGuessStatuses } from './statuses'
-import { solutionIndex } from './words'
 
 export const shareStatus = (guesses: string[]) => {
   navigator.clipboard.writeText(
-    `Not Wordle ${solutionIndex} ${guesses.length}/6\n\n` +
-    generateEmojiGrid(guesses)
+    `Web3 Wordle by The Product House ${guesses.length}/6\n\n` +
+    generateEmojiGrid(guesses) +
+    '\n\n@0xTPH @0xPolygon\n\nIf you still haven\'t, register now: https://www.theproduct.house/learn/live-web3-masterclass'
   )
 }
 
